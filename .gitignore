@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# Submission archives
+*.zip
+*.jar
+
+# IDE and build tool folders
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+target/
+out/
+bin/
+
+# OS noise
+.DS_Store
+Thumbs.db
